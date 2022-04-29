@@ -6,7 +6,6 @@
 * <p>The class, its name is a user-defined data type that we can use in our program that contains variables and functions created by user.</p>
 * <p>And it works only when object created by the user, from the main. by use of a object, we access class attributes.</p> 
 ## STRUCTURE TO CREATE THE class -
-<div style="border-style:solid;">
 <b>class class_name { <br>
 <b>public:<br>
 <b>// variables and functions<br>
@@ -16,4 +15,4 @@
 <b>object.variable;<br>
 <b>object.function();<br>
 <b>}
-</div>
+
